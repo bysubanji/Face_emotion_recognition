@@ -91,9 +91,7 @@ Streamlit is a Python framework for developing machine learning and data science
 Deployment in cloud platform-
 AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS), and packaged software as a service (SaaS) offerings.
 
-Deployment Link for AWS-
 
-http://15.206.194.193:8501/
 
 # Conclusion:
 
